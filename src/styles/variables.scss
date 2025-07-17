@@ -1,0 +1,47 @@
+// --------------------------------------
+// 색상정의
+// --------------------------------------
+
+// 라이트 모드 팔레트
+$light-bg: #fafafa;
+$light-text: #222;
+$light-navbar: #f8f8f8;
+$light-card: #fff;
+
+// 다크 모드 팔레트
+$dark-bg: #121212;
+$dark-text: #f1f1f1;
+$dark-navbar: #1e1e1e;
+$dark-card: #1f1f1f;
+
+// 공통 컬러
+$primary: #FFDC16;
+$success: #007bff; 
+$danger: #ff4d4f;
+$info: #17a2b8;
+$warning: #ff9800;
+body.light-theme {
+  background-color: $light-bg;
+  color: $light-text;
+
+  .navbar {
+    background: $light-navbar;
+  }
+  .movie-card {
+    background: $light-card;
+    color: $light-text;
+  }
+}
+
+body.dark-theme {
+  background-color: $dark-bg;
+  color: $dark-text;
+
+  .navbar {
+    background: $dark-navbar;
+  }
+  .movie-card {
+    background: $dark-card;
+    color: $dark-text;
+  }
+}
