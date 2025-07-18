@@ -203,7 +203,7 @@ const MovieDetailPage = () => {
                   src={
                     actor.profile_path
                       ? `https://media.themoviedb.org/t/p/w185${actor.profile_path}`
-                      : "https://via.placeholder.com/185x278?text=No+Image"
+                      : "https://www.studiopeople.kr/common/img/default_profile.png"
                   }
                   alt={actor.name}
                   className="img-fluid rounded shadow-sm"
