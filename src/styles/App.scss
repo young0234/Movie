@@ -441,6 +441,18 @@ body.light-theme {
   }
 }
 .footer-wrap {
+  .more-a{
+    a{
+      color: #f8f9fa;
+      &:first-child {
+        margin-right: 1rem;
+      }
+      &:hover {
+        color: #f9c74f;
+      }
+    }
+    
+  }
   .icon-hover {
     cursor: pointer;
     transition: color 0.3s;

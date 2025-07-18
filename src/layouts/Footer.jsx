@@ -11,7 +11,7 @@ const Footer = () => {
             <h5 className="mb-2">YOUNG MOVIE</h5>
             <p className="mb-0 small">© 2025 MovieLog. All rights reserved.</p>
           </Col>
-          <Col md={4} className="mb-3 mb-md-0 text-center">
+          <Col md={4} className="mb-3 mb-md-0 text-center more-a">
             <a href="/about" sclassName="text-light me-3 small">About</a>
             <a href="/contact" className="text-light me-3 small">Contact</a>
             <a href="/policy" className="text-light small">Policy</a>
