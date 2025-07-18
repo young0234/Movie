@@ -45,7 +45,7 @@ const AppLayout = () => {
       >
         <Container className="nav-header">
           {/* 로고 */}
-          <Navbar.Brand as={Link} to="/">Movie 306</Navbar.Brand>
+          <Navbar.Brand as={Link} to="/">YOUNG MOVIE</Navbar.Brand>
 
           {/* 다크모드 토글 */}
           <div
