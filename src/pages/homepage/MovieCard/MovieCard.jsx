@@ -27,7 +27,7 @@ const MovieCard = ({ movie, genres = [] }) => {
   );
 
   // 관람 등급
-  const audienceRating = movie.adult ? "성인 전용" : "청소년 관람 가능";
+  const audienceRating = movie.adult ? " 성인 전용" : " 청소년 관람 가능" ;
 
   // 장르 문자열 변환
   const genreNames =
@@ -90,7 +90,7 @@ const MovieCard = ({ movie, genres = [] }) => {
             <div style={{ margin: "8px 0" }}>
               <Badge bg={movie.adult ? "danger" : "success"}>
                 <MdOutlineChildCare size={16} />
-                {movie.adult ? "성인 전용" : "일반 관람 가능"}
+                {audienceRating}
               </Badge>
 
               {/* runtime 있을 때만 출력 */}
