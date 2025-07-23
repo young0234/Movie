@@ -1,4 +1,4 @@
-# **Weather site Project:** 
+![movie03](https://github.com/user-attachments/assets/90a71044-765a-44c8-bae7-e8dbbe85dcfb)# **Weather site Project:** 
 ### 영화 사이트(작성 중입니다.)
 
 <br/>
@@ -104,10 +104,9 @@
 ## 3. 주요 기능 소개
 
 ### 3.1. 메인 페이지
-#### 3.1.1. 메인비주얼
+#### 3.1.1. 전체적 레이아웃 및 네비게이션
 
-![메인페이지](https://github.com/user-attachments/assets/1b5ef677-5e4e-4aa5-a955-6689cdd86203)
-
+![movie01](https://github.com/user-attachments/assets/7ce8ad27-8c7a-4491-bd8c-d4d9de203b74)
 1. 하단 버튼을 클릭하면 휴태폰 화면의 내용과 배뎡이 전체 배경이 변경되어 직관적으로 확인할 수 있습니다.
 2. 버튼을 클릭하면 클릭 효과가 나타나 눌렀음을 알 수 있도록 하였습니다.
 
@@ -115,9 +114,40 @@
 </br>
 </br>
 
-#### 3.1.2. 모달 창
+#### 3.1.2. 배너 및 메인 비주얼 섹션
 
-![모달 창](https://github.com/user-attachments/assets/6f0ae8a0-8eb0-4ff0-aa87-01bb0d9b10dd)
+![movie02](https://github.com/user-attachments/assets/d1d2346b-e649-4e60-b94f-af48cbc52076)
+1. 상세한 정보는 모달 창을 통해 알 수 있도록 하여 사용자의 호기심을 유도하였습니다.
+2. 추후에는 모달이 아닌 별도의 서브페이지로 이동하도록 변경할 예정입니다.
+
+</br>
+</br>
+</br>
+
+#### 3.1.3. 최신 예고편
+
+![movie03](https://github.com/user-attachments/assets/626767d7-bc48-4985-baa7-71182e86064b)
+1. 하단 버튼을 클릭하면 휴태폰 화면의 내용과 배뎡이 전체 배경이 변경되어 직관적으로 확인할 수 있습니다.
+2. 버튼을 클릭하면 클릭 효과가 나타나 눌렀음을 알 수 있도록 하였습니다.
+
+</br>
+</br>
+</br>
+
+#### 3.1.4. 영화 슬라이드 섹션
+
+![movie02](https://github.com/user-attachments/assets/d1d2346b-e649-4e60-b94f-af48cbc52076)
+1. 상세한 정보는 모달 창을 통해 알 수 있도록 하여 사용자의 호기심을 유도하였습니다.
+2. 추후에는 모달이 아닌 별도의 서브페이지로 이동하도록 변경할 예정입니다.
+
+</br>
+</br>
+</br>
+
+
+#### 3.1.5. TV 슬라이드 섹션
+
+![movie02](https://github.com/user-attachments/assets/d1d2346b-e649-4e60-b94f-af48cbc52076)
 1. 상세한 정보는 모달 창을 통해 알 수 있도록 하여 사용자의 호기심을 유도하였습니다.
 2. 추후에는 모달이 아닌 별도의 서브페이지로 이동하도록 변경할 예정입니다.
 
@@ -131,9 +161,9 @@
 ### 3.2. 서브 페이지
 
 
-#### 3.2.1. 상단버튼
+#### 3.2.1. 영화 검색 및 전체 페이지
 
-![상단버튼](https://github.com/user-attachments/assets/1d7c7018-4488-447a-ac2c-993723123c87)
+![movie06](https://github.com/user-attachments/assets/395c3e68-07ee-420e-a1c5-a814747f14a6)
 1. 상단에 이력서, 이메일, 홈 버튼을 배치하여 사용자가 필요한 정보에 빠르게 접근할 수 있도록 접근성을 고려한 UI로 구성하였습니다.
 2. 이력서는 클릭 시 바로 다운로드되며, 이메일은 클릭만으로 자동 복사되도록 설정하여 사용자 편의성을 높였습니다.
 
@@ -141,9 +171,9 @@
 </br>
 </br>
 
-#### 3.2.2. 우측버튼
+#### 3.2.2. TV 검색 및 전체 페이지
 
-![우측버튼](https://github.com/user-attachments/assets/208fcf29-66ae-4bee-9de1-77eb15b46b8a)
+![movie07](https://github.com/user-attachments/assets/ea49a2cf-75a0-442b-a3ab-ba6ab2ab4b60)
 1. 각각의 버튼은 관련 페이지로 직접 연결되어 있어, 원하는 콘텐츠를 빠르게 확인할 수 있습니다.
 2. 스크롤 시에도 주요 요소들은 고정된 위치에 유지되어, 필요한 정보를 언제든지 쉽게 확인할 수 있도록 구성했습니다.
 
@@ -151,9 +181,39 @@
 </br>
 </br>
 
-#### 3.2.3. 상세페이지
+#### 3.2.3. 영화 상세페이지
 
-![상세페이지](https://github.com/user-attachments/assets/2213cfa1-bdc1-4ca0-830c-2cc2abccf5e0)
+![movie08](https://github.com/user-attachments/assets/73d6fd9d-1941-4a51-a7f6-a83ef82ccfb0)
+1. 각 프로젝트의 기획 의도와 제작 과정을 상세히 서술하여, 작업에 대한 이해도를 높였습니다.
+2. 페이지 하단에는 스크롤이 일정 수준 이상 내려갔을 때 자동으로 나타나는 탑 버튼(Top Button)을 적용해, 긴 콘텐츠 탐색 후에도 쉽게 상단으로 이동할 수 있도록 했습니다.
+
+</br>
+</br>
+</br>
+
+#### 3.2.4. 마이 페이지
+
+![movie09](https://github.com/user-attachments/assets/b5e10bbc-d2d3-4f19-9656-e45e56e9501e)
+1. 각각의 버튼은 관련 페이지로 직접 연결되어 있어, 원하는 콘텐츠를 빠르게 확인할 수 있습니다.
+2. 스크롤 시에도 주요 요소들은 고정된 위치에 유지되어, 필요한 정보를 언제든지 쉽게 확인할 수 있도록 구성했습니다.
+
+</br>
+</br>
+</br>
+
+#### 3.2.5. 로그인 페이지
+
+![movie10](https://github.com/user-attachments/assets/60b025b3-db0b-4d6c-985c-e5b0399564ba)
+1. 각 프로젝트의 기획 의도와 제작 과정을 상세히 서술하여, 작업에 대한 이해도를 높였습니다.
+2. 페이지 하단에는 스크롤이 일정 수준 이상 내려갔을 때 자동으로 나타나는 탑 버튼(Top Button)을 적용해, 긴 콘텐츠 탐색 후에도 쉽게 상단으로 이동할 수 있도록 했습니다.
+
+</br>
+</br>
+</br>
+
+#### 3.2.6. 404 페이지
+
+![movie11](https://github.com/user-attachments/assets/43dee77d-567b-440c-b9fe-fa35e523d89e)
 1. 각 프로젝트의 기획 의도와 제작 과정을 상세히 서술하여, 작업에 대한 이해도를 높였습니다.
 2. 페이지 하단에는 스크롤이 일정 수준 이상 내려갔을 때 자동으로 나타나는 탑 버튼(Top Button)을 적용해, 긴 콘텐츠 탐색 후에도 쉽게 상단으로 이동할 수 있도록 했습니다.
 
