@@ -8,8 +8,8 @@
 <br/>
 
 ##  관련 링크
-- [🎨 디자인 시안](https://www.figma.com/design/lhsD7THnd7QKUGuzQvD08d/%EB%82%A0%EC%94%A8%EC%95%B1?node-id=0-1&t=Pn2rvVyDgRYCBTxf-1)
-- [🌐 DEMO 페이지](https://weather500.netlify.app/)
+- [🎨 디자인 시안](https://www.figma.com/design/JapiGX58Kp2bd39g9wffDY/TMDB?node-id=0-1&t=lEP3xks9N902U0Yv-1)
+- [🌐 DEMO 페이지](https://68799a0e0f449200083c8766--movie501.netlify.app/)
 
 </br>
 </br>
@@ -19,12 +19,12 @@
 ---
 
 #### **Schedule** 
-> **2025.07.08. - 2025.07.14. (5h - 6h, weekdays only)**
+> **2025.07.10. - 2025.07.17. (5h - 6h, weekdays only)**
 
 </br>
 
-> 1. Design: 2025.07.08.
-> 2. Development: 2025.07.09. - 2025.07.13.
+> 1. Design: 2025.07.10.- 2028.07.11.
+> 2. Development: 2025.07.11. - 2025.07.17.
 
 
 <br/>
