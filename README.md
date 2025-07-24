@@ -147,7 +147,7 @@
 
 #### 3.1.5. TV 슬라이드 섹션
 
-![movie02](https://github.com/user-attachments/assets/d1d2346b-e649-4e60-b94f-af48cbc52076)
+![movie05](https://github.com/user-attachments/assets/b9ec672f-1c1a-47a1-a7ff-7372d75406bc)
 1. 상세한 정보는 모달 창을 통해 알 수 있도록 하여 사용자의 호기심을 유도하였습니다.
 2. 추후에는 모달이 아닌 별도의 서브페이지로 이동하도록 변경할 예정입니다.
 
